@@ -5,3 +5,4 @@ strA='lê công\n'
 strB='nam'
 strC=strA+strB
 print(strC)
+print(\a)
