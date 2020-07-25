@@ -7,3 +7,4 @@ strC=strA+strB
 print(strC)
 print(\a)
 strC*5
+strC*5
